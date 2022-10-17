@@ -16,7 +16,7 @@ function App() {
 					<input type="text" name="email" id="email" value={email} onChange={(e)=>setEmail(e.target.value)}/> 
 				</div> 
 				<div> 
-					<label htmlFor="passw">Password</label>
+					<label htmlFor="passw">assword</label>
 					<input type="text" name="passw" id="passw" value={passw} onChange={(e)=>setPassw(e.target.value)}/> 
 				</div>  
 				<button type="submit">Login</button>
